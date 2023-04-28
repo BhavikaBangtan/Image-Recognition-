@@ -1,0 +1,17 @@
+.heading{
+    width: 100%;
+}
+body{
+    background-color: rgb(236, 91, 236);
+    color:white;
+}
+#Camera{
+    border-style:dashed;
+    border-color:black;
+    border-width:3px;
+    width: 350px;
+    height: 350px;
+}
+.items{
+    color:white;
+}
